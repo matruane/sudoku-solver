@@ -32,6 +32,5 @@ describe('fillSquare()', () => {
     const actual = fillSquare(square)
     expect(actual[1][1]).toBe(1)
     expect(actual.flat()).toEqual(expect.arrayContaining(oneToNine))
-    console.log(actual)
   })
 })
