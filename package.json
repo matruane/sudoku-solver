@@ -18,5 +18,8 @@
   "homepage": "https://github.com/matruane/sudoku-solver#readme",
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "@types/jest": "^27.5.1"
   }
 }
